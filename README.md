@@ -1,0 +1,2 @@
+# IJ-Plugin_CarbonGridPatternRemove
+ 
